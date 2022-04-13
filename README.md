@@ -108,25 +108,28 @@ cv2.merge((h,s,v))
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-<br>
-<br>
+![Screenshot (40)](https://user-images.githubusercontent.com/75235759/163123040-5dcabd1a-12e6-4b47-a6d2-15815a3a0f6f.png)
+
+
 
 ### ii) HSV to RGB and BGR
-<br>
-<br>
+![Screenshot (41)](https://user-images.githubusercontent.com/75235759/163123079-3bcaa8cb-5e35-41a3-ba04-08fa26e7d563.png)
+
+
 
 ### iii) RGB and BGR to YCrCb
-<br>
-<br>
+
+![Screenshot (42)](https://user-images.githubusercontent.com/75235759/163123137-73988590-33c0-4e9a-90f3-3f99668cc092.png)
 
 ### iv) Split and merge RGB Image
-<br>
-<br>
+
+![Screenshot (43)](https://user-images.githubusercontent.com/75235759/163123188-b688b75a-2281-463c-80dd-913cf29c7639.png)
+
 
 ### v) Split and merge HSV Image
-<br>
-<br>
 
+
+![Screenshot (44)](https://user-images.githubusercontent.com/75235759/163123232-e32c194d-ffc4-48ac-a891-3aaf2add484a.png)
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
